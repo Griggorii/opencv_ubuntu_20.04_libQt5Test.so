@@ -1,6 +1,8 @@
 # opencv_ubuntu_20.04_libQt5Test.so
 opencv , ubuntu , 20.04 , libQt5Test.so
 
+Proview video https://github.com/Griggorii/opencv_ubuntu_20.04_libQt5Test.so/blob/main/Opencv_ubuntu_20.04.webm
+
 Download all pack https://github.com/Griggorii/opencv_ubuntu_20.04_libQt5Test.so/releases/tag/opencv_ubuntu_20.04
 
 $ sudo apt update
